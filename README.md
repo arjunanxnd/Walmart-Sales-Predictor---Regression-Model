@@ -1,4 +1,4 @@
-# Walmart Sales Prediction Project
+# Walmart Sales Predictor 
 
 ## Project Overview
 This project aims to predict weekly sales for various Walmart stores using historical sales data. The model accounts for various factors including promotional holidays, economic conditions, and store-specific characteristics, to accurately forecast sales figures.
